@@ -220,7 +220,7 @@ const App: React.FC = () => {
               <Tv className="text-white" size={24} />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-white">IPTV SMARTERS</h1>
+              <h1 className="text-xl font-bold text-white">ABDIPTVSMARTERS</h1>
               <p className="text-gray-300 text-sm">04:06 PM June 30,2021</p>
             </div>
           </div>
