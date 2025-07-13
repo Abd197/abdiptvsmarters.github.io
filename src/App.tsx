@@ -35,10 +35,10 @@ const App: React.FC = () => {
     const sampleChannels: Channel[] = [
       {
         id: '1',
-        name: 'Sample Live Stream',
-        url: 'https://demo-live.dacast.com/30a0155c75d7468a8b0dc3071d1b2ad7/index.m3u8',
+        name: 'UK HD TV Live Stream',
+        url: 'http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=41548&extension=m3u8',
         category: 'live',
-        group: 'Demo',
+        group: 'UK HD TV',
         isFavorite: false,
       },
       {
